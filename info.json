@@ -1,0 +1,17 @@
+{
+    "name": "bzbbasics",
+    "version": "0.1.0",
+    "factorio_version": "1.1",
+    "title": "BZ Bee: Basic Metals",
+    "author": "Brevven",
+    "contact": "",
+    "homepage": "https://forums.factorio.com/viewtopic.php?f=190&t=98515",
+    "dependencies": [
+      "bz-dsr-bridge",
+      "bzlead",
+      "bztitanium",
+      "bztungsten"
+    ],
+    "description": "Mod pack including Titanium, Lead, and Tungsten. Together, they modify many core recipes."
+}
+
